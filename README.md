@@ -17,9 +17,6 @@ Python • Django • DRF • PostgreSQL • Docker • Flask • Pytest • Swa
 - TaskFlow API — Django + DRF project for task and sprint workflows  
   https://github.com/Rokhuda/TaskFlow-API-with-Django
 
-- Flask Job Board — structured backend app with database-driven workflows  
-  https://github.com/Rokhuda/PythonFlask-JobBoard
-
 ## Principles
 - Design before implementation
 - Tests as documentation
