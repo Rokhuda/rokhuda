@@ -14,8 +14,7 @@ Backend Engineer • Python • Django • API Architecture
 Python • Django • DRF • PostgreSQL • Docker • Flask • Pytest • Swagger
 
 ## Featured
-- TaskFlow API — Django + DRF project for task and sprint workflows  
-  https://github.com/Rokhuda/TaskFlow-API-with-Django
+-
 
 ## Principles
 - Design before implementation
